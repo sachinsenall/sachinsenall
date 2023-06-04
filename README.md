@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Snake Graph -->
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p>
+
+#  🙋 Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>
+
+
+
+
+
+
+
 [![An image of @sachinsenall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenall)](https://holopin.io/@sachinsenall)
