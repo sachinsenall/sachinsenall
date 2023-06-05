@@ -1,6 +1,6 @@
 <!-- Greeting Section -->
 
-#  🙋‍♂️ Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>
+#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>
 
 <!--
 **sachinsenall/sachinsenall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
