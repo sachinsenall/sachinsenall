@@ -1,6 +1,6 @@
 <!-- Greeting Section -->
 
-#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <sub><img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=for-the-badge&color=blue&label=profile+views"/><sub>
+#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <sub><img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=plastic&color=blue&label=profile+views"/><sub>
 
 <!--
 **sachinsenall/sachinsenall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
