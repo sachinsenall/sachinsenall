@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Snake Graph -->
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p>  <sub><img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=profile+views"/><sub>
 
 
 
