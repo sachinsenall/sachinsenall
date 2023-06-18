@@ -21,5 +21,6 @@
 
 <!-- Badges -- >
 
+# Badges
 
 [![An image of @sachinsenall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenall)](https://holopin.io/@sachinsenall)
