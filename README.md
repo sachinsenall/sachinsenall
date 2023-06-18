@@ -1,31 +1,22 @@
+<!-- Wave -->
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=sachinsenal0x64&fontSize=40&fontAlignY=35"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=sachinsenal0x64&fontSize=40&fontAlignY=35"/>  <!-- https://github.com/kyechan99/capsule-render -->
 </p>
 
 
 <!-- Greeting Section -->
 
+
 #  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <sub><img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/><sub>
 
-<!--
-**sachinsenall/sachinsenall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Snake Graph -->
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p>
 
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get Svg From Assets Folder -->
 
 
 
