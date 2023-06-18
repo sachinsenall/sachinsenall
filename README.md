@@ -19,6 +19,6 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get Svgs From Assets Folder -->
 
 
-# <iframe src="https://giphy.com/embed/FEzcI0TlDxkdbaHTwV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/verified-badge-account-FEzcI0TlDxkdbaHTwV">via GIPHY</a></p> Badges
+# ![img|320x271,50%](https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/badge.gif)
 
 [![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
