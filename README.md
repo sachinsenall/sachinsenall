@@ -21,7 +21,7 @@
 <!-- Welcome Msg -->
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Sachin" alt="Typing SVG"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=print(%22Hello%2C%20World!%22);👋Hi+there,I'm+Sachin" alt="Typing SVG"/></a>
 </div>
 
 
