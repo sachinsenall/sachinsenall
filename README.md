@@ -32,7 +32,7 @@
 <!-- Snake Graph -->
 
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get YML File From .github Folder After Run in Github Action -->
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get YML File From .github Folder After Run using Github Actions -->
 
 
 # <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/badge.gif" width="32" height="32"> BADGES
