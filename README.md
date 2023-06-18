@@ -16,7 +16,7 @@
 <!-- Snake Graph -->
 
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get Svg From Assets Folder -->
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get Svgs From Assets Folder -->
 
 
 <!-- Badges -- >
