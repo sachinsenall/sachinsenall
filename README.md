@@ -8,7 +8,7 @@
 <!-- Greeting Section -->
 
 
-#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <sub><img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/><sub>
+#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <sub><img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/><sub> 
 
 
 
@@ -19,6 +19,8 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> <!-- Get Svg From Assets Folder -->
 
 
+<!-- Badges -- >
 
+#  🙋‍♂bad Hey
 
 [![An image of @sachinsenall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenall)](https://holopin.io/@sachinsenall)
