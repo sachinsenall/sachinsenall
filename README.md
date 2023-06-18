@@ -21,4 +21,4 @@
 
 # 📛 Badges
 
-[![An image of @sachinsenall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
+[![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
