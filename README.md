@@ -1,12 +1,12 @@
 <!-- Wave -->
 
+
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=sachinsenal0x64&fontSize=40&fontAlignY=35"/>  <!-- https://github.com/kyechan99/capsule-render -->
 </p>
 
 
 <!-- Greeting Section -->
-
 
 
 
