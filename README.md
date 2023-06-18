@@ -7,8 +7,12 @@
 
 <!-- Greeting Section -->
 
+<!-- Open Source Badge SVG https://github.com/ellerbrock/open-source-badges >
 
-#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">
+<!--  Profile Views Counter https://github.com/antonkomarev/github-profile-views-counter >
+
+
+#  🙋‍♂️ Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">  
 
 
 
