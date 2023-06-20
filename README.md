@@ -9,6 +9,12 @@
 
 
 
+<!-- Banner -->
+
+
+<img src="./assets/banner.gif" alt="Banner">
+
+
 <!-- Greeting Section -->
 
 
