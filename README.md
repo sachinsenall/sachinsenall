@@ -14,7 +14,7 @@
 
 <!-- Get gif from assets folder -->
 
-<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/7656b96a70a90ee3d32c216bba4e2eb9c5af4046/assets/banner.gif" width="2160" height="150" alt="Banner">
+<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/6b365417f61960478b5291f3a249d0b27d76960a/assets/banner.gif" width="2160" height="150" alt="Banner">
 
 
 
