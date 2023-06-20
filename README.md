@@ -9,7 +9,9 @@
 
 
 
+<!-- Banner -->
 
+<img src="assets/banner.gif"/>
 
 
 
