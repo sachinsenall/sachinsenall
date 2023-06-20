@@ -36,17 +36,26 @@
 </div>
 
 
+
+
+<!-- Social -->
+
+
 <!-- all svgs have in assets folder -->
-  
-<a href="https://twitter.com/_sachinsenal">
+
+
+<div align="center">
+
+   <a href="https://twitter.com/_sachinsenal">
   <img src="/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-senal/">
   <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a>
-
-
+ 
+    
+</div>
 
 <!-- Snake Graph -->
 
