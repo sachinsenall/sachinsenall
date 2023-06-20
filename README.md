@@ -173,7 +173,7 @@
 
 <!-- Readme stats -->
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats and https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 <!-- GIF =  https://giphy.com/stickers/PragmaSchool-rocket-pragma-pragmaschool-VJ7gjWkHUVfpXT2PLp -->
 
