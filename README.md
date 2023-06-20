@@ -53,7 +53,7 @@
 <a href="https://www.linkedin.com/in/sachin-senal/">
   <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a>
-
+<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
  
     
