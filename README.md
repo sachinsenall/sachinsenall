@@ -69,9 +69,10 @@
 [![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
 
 
+
 <!-- Profile Trophy -->
 
-# 🏆 Trophy
+# # <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/actions.gif" width="32" height="32"> Trophy
 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical&row=1&column=7&no-frame=false&no-bg=false"/> </div>
