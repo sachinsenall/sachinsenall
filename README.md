@@ -74,7 +74,7 @@
 
 <!-- https://giphy.com/stickers/winner-congratulations-l0Exj6t3iK0Xzv00E or use assets folder in this repo -->
 
-# <img src="assets/actions.gif" width="32" height="32"> Trophy
+# <img src="assets/actions.gif" width="48" height="48"> Trophy
 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical&row=1&column=7&no-frame=false&no-bg=false"/> </div>
