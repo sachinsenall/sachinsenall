@@ -88,6 +88,8 @@
 
 <!-- get webp and gifs from assets folder -->
 
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666c?style=style=flat-square&logo=Hibernate&logoColor=white)](https://hibernate.org)
+
 
 
 
