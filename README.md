@@ -150,6 +150,7 @@
     [![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-gb)
     [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com)
     [![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)](https://insomnia.rest)
+    [![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pallets/flask)
     
 
 
