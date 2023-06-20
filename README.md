@@ -49,6 +49,17 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> 
 
 
+
+
+<!-- Readme status -->
+
+
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight)</center>
+
+
+
+
+
 <!-- Badges -->
 
 <!-- Use giphy.com for animations-->
@@ -60,5 +71,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight)
+
 
