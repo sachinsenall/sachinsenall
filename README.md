@@ -86,7 +86,7 @@
 
 # <img src="assets/box.gif" width="48" height="48"> Box
 
-<!-- get webp and gifs from assets folder -->
+<!-- Badges = https://shields.io -->
 
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com)
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
