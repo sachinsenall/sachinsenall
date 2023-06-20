@@ -53,7 +53,7 @@
 
 <!-- GIF =  https://giphy.com/stickers/PragmaSchool-rocket-pragma-pragmaschool-VJ7gjWkHUVfpXT2PLp -->
 
-# <img src="assets/rocket.gif" width="48" height="48"> Trophy
+# <img src="assets/rocket.gif" width="48" height="48"> Actions
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>
 
