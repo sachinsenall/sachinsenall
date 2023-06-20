@@ -59,7 +59,7 @@
 </a> 
 
 <a href="https://stackoverflow.com/users/22059714/sachin-senal">
-  <img src="/assets/stackoverflow.svg" width="48" height="40" alt="Linkedin Profile">
+  <img src="/assets/stackoverflow.svg" width="40" height="40" alt="Linkedin Profile">
 </a> 
 
 </div>
