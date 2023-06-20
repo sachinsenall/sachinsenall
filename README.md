@@ -33,6 +33,8 @@
 
 <div align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=print(%22Hello%2C%20World!%22);👋Hi+there,I'm+Sachin;I+do+open+source 🍕" alt="Typing SVG"/></a> 
+</div>
+
 
 <!-- all svgs have in assets folder -->
   
@@ -43,9 +45,6 @@
 <a href="https://www.linkedin.com/in/sachin-senal/">
   <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a>
-
-</div>
-
 
 
 
