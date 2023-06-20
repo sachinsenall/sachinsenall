@@ -85,9 +85,9 @@
 
 
 
-<!-- Box -->
+<!-- Gear -->
 
-# <img src="assets/box.gif" width="48" height="48"> Box
+# <img src="assets/box.gif" width="48" height="48"> Gear
 
 <!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
