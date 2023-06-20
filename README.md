@@ -147,7 +147,8 @@
     ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
     ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
     ![VPN](https://img.shields.io/badge/VPN-575757?style=style=flat-square&logo=Proto.io)
-    ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+    [![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-gb)
+    [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com)
     
 
 
