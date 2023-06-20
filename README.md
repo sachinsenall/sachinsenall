@@ -92,7 +92,6 @@
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
     [![Edge](https://img.shields.io/badge/Edge-0078D7?style=style=flat-square&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
     [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)]()
-    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=style=flat-square&logo=IntelliJIDEA&logoColor=white)](https://www.jetbrains.com/idea)
     [![Git](https://img.shields.io/badge/-Git-FCC624?style=style=flat-square&logo=git)](https://git-scm.com)
     [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
     [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=style=flat-square&logo=GitHubActions&logoColor=white)](https://github.com)
