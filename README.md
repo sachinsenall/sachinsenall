@@ -54,7 +54,7 @@
   <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a> 
 
-<a href="https://www.linkedin.com/in/sachin-senal/](https://dev.to/sachinsenal">
+<a href="https://dev.to/sachinsenal">
   <img src="/assets/dev.to.svg" width="52" height="40" alt="Linkedin Profile">
 </a> 
 </div>
