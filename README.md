@@ -54,7 +54,8 @@
 <!-- Readme status -->
 
 
-<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight)</center>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>p
 
 
 
