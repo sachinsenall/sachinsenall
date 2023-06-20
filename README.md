@@ -178,7 +178,7 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500px"/></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
 
 
 
