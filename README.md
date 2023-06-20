@@ -166,6 +166,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 
+
+
 <!-- Readme stats -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -176,7 +178,7 @@
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/></p>
 
-<p align="left"<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true"/></p>
 
 
 
