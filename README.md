@@ -57,6 +57,11 @@
 <a href="https://dev.to/sachinsenal">
   <img src="/assets/dev.to.svg" width="52" height="40" alt="Linkedin Profile">
 </a> 
+
+<a href="https://stackoverflow.com/users/22059714/sachin-senal">
+  <img src="/assets/stackoverflow.svg" width="52" height="40" alt="Linkedin Profile">
+</a> 
+
 </div>
 
 <!-- Snake Graph -->
