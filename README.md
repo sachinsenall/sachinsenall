@@ -180,6 +180,8 @@
 
 <p align="left"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
 
+<p align="right"<img src="assets/catcode.gif"/></p>
+
 
 
 
