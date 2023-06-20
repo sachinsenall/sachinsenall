@@ -52,7 +52,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=gruvbox"/></p>p
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=onedark"/></p>
 
 
 
