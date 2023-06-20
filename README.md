@@ -20,10 +20,7 @@
 
 
 
-
-
 #  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/>  <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">  
-
 
 
 
@@ -55,7 +52,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>p
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=gruvbox"/></p>p
 
 
 
