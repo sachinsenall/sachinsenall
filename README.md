@@ -11,7 +11,8 @@
 
 <!-- Banner -->
 
-<img src="assets/banner.gif"/>
+<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/360b4ab5b6a65c842356b54d33b26c9ed795f3e4/assets/banner.gif" width="2160" height="540" alt="Banner">
+
 
 
 
