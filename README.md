@@ -20,18 +20,22 @@
 
 
 
-#  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">  
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">  
 
 
 
 
 <!-- Welcome -->
 
+
 <!-- https://github.com/DenverCoder1/readme-typing-svg-->
 
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=print(%22Hello%2C%20World!%22);👋Hi+there,I'm+Sachin;I+do+open+source 🍕" alt="Typing SVG"/></a>  
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=print(%22Hello%2C%20World!%22);👋Hi+there,I'm+Sachin;I+do+open+source 🍕" alt="Typing SVG"/></a> 
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div> 
 
 </div>
 
