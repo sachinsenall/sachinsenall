@@ -53,6 +53,10 @@
 <a href="https://www.linkedin.com/in/sachin-senal/">
   <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a> 
+
+<a href="https://www.linkedin.com/in/sachin-senal/">
+  <img src="/assets/dev.to.svg" width="52" height="40" alt="Linkedin Profile">
+</a> 
 </div>
 
 <!-- Snake Graph -->
