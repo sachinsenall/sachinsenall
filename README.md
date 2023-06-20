@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-senal/">
-  <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/68dab289616557bd35161ba4ee5df32bf60257c9/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
+  <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a>
 
 </div>
