@@ -69,6 +69,14 @@
 [![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
 
 
+<!-- Profile Trophy -->
+
+# 🏆 Trophy
+
+https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical
+
+
+
 <!-- Wave -->
 
 <!--  https://github.com/kyechan99/capsule-render  -->
