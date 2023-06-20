@@ -9,9 +9,12 @@
 
 
 
+
 <!-- Banner -->
 
-<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/29f4fed7ae89d3016545340c12338d2c2560e938/assets/banner.gif" width="2160" height="150" alt="Banner">
+<!-- Get gif from assets folder -->
+
+<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/7656b96a70a90ee3d32c216bba4e2eb9c5af4046/assets/banner.gif" width="2160" height="150" alt="Banner">
 
 
 
