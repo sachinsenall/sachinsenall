@@ -174,10 +174,9 @@
 
 # <img src="assets/rocket.gif" width="48" height="48"> Actions
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/></p>
 
-
-
+<p align="left"<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true"/></p>
 
 
 
