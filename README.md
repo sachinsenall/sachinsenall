@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 
-<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/360b4ab5b6a65c842356b54d33b26c9ed795f3e4/assets/banner.gif" width="2160" height="150" alt="Banner">
+<img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/29f4fed7ae89d3016545340c12338d2c2560e938/assets/banner.gif" width="2160" height="150" alt="Banner">
 
 
 
