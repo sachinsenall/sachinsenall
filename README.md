@@ -74,9 +74,8 @@
 
 # <img src="assets/rocket.gif" width="48" height="48"> Actions
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>
 
 
 
