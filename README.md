@@ -37,7 +37,7 @@
 <!-- all svgs have in assets folder -->
   
 <a href="https://twitter.com/_sachinsenal">
-  <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/68dab289616557bd35161ba4ee5df32bf60257c9/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
+  <img src="/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-senal/">
