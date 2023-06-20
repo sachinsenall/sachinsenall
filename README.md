@@ -91,9 +91,9 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com)
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
     [![Edge](https://img.shields.io/badge/Edge-0078D7?style=style=flat-square&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
-    [![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-GB/firefox)
-    [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white)](https://www.apple.com/uk/safari)
-    [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
+    [![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-GB/firefox)
+    [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=flat&logo=Safari&logoColor=white)](https://www.apple.com/uk/safari)
+    [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
     [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)]()
     [![Git](https://img.shields.io/badge/-Git-FCC624?style=style=flat-square&logo=git)](https://git-scm.com)
     [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
@@ -147,8 +147,8 @@
     ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
     ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
     [![VPN](https://img.shields.io/badge/VPN-575757?style=style=flat-square&logo=Proto.io)](https://github.com/XTLS/Xray-core)
-    [![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-gb)
-    [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com)
+    [![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-gb)
+    [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com)
     [![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)](https://insomnia.rest)
     
 
