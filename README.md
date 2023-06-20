@@ -72,7 +72,9 @@
 
 <!-- Profile Trophy -->
 
-# <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/actions.gif" width="32" height="32"> Trophy
+<!-- https://giphy.com/stickers/winner-congratulations-l0Exj6t3iK0Xzv00E or use assets folder in this repo -->
+
+# <img src="assets/actions.gif" width="32" height="32"> Trophy
 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical&row=1&column=7&no-frame=false&no-bg=false"/> </div>
