@@ -147,6 +147,8 @@
     ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
     ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
     ![VPN](https://img.shields.io/badge/VPN-575757?style=style=flat-square&logo=Proto.io)
+    ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+    
 
 
 
