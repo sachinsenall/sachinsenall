@@ -86,7 +86,7 @@
 
 # <img src="assets/box.gif" width="48" height="48"> Box
 
-<!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges -->
+<!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com)
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
@@ -151,6 +151,7 @@
     [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com)
     [![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)](https://insomnia.rest)
     [![FLASK](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/pallets/flask)
+    [![DATAGRIP](https://img.shields.io/badge/DataGrip-000000.svg?style=flat&logo=DataGrip&logoColor=white)]()
     
 
 
