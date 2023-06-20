@@ -154,7 +154,7 @@
     [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com)
     [![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)](https://insomnia.rest)
     [![FLASK](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/pallets/flask)
-    [![DATAGRIP](https://img.shields.io/badge/DataGrip-000000.svg?style=flat&logo=DataGrip&logoColor=white)]()
+    [![DATAGRIP](https://img.shields.io/badge/DataGrip-000000.svg?style=flat&logo=DataGrip&logoColor=white)](https://www.jetbrains.com/datagrip)
     
 
 
