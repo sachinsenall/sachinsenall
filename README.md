@@ -62,7 +62,7 @@
 
 <!-- Badges -->
 
-<!-- Use giphy.com for animations-->
+<!-- Use giphy.com for Animate Stickers -->
 
 # <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/badge.gif" width="32" height="32"> BADGES 
 
