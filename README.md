@@ -51,8 +51,9 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<!-- GIF =  https://giphy.com/stickers/PragmaSchool-rocket-pragma-pragmaschool-VJ7gjWkHUVfpXT2PLp -->
 
-# 🚀 Actions
+# <img src="assets/rocket.gif" width="48" height="48"> Trophy
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&show_icons=true&theme=tokyonight"/></p>
 
