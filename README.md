@@ -73,7 +73,7 @@
 
 # 🏆 Trophy
 
-https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical
+<img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical"/>
 
 
 
