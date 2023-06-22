@@ -29,7 +29,7 @@
 
 
 
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <a href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/-Open%20Source%20💖%20-blue?logo=github&logoColor=black&style=flat" height="22"  alt="Open Source Love"/a>
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <a href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/-Open%20Source%20💖%20-blue?logo=github&logoColor=black&style=flat" height="22"  alt="Open Source Love"/>/a>
 
 
 
