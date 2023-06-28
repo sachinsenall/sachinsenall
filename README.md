@@ -170,7 +170,7 @@
 
 # <img src="assets/rocket.gif" width="48" height="48"> Actions
 
-<img align="left" src="https://media.giphy.com/media/2gyu76zd1k2eFlxVgw/giphy.gif" width="25%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/2gyu76zd1k2eFlxVgw/giphy.gif" width="25%" style="display:inline;">
+<img align="left" src="https://media.giphy.com/media/2gyu76zd1k2eFlxVgw/giphy.gif" width="15%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/2gyu76zd1k2eFlxVgw/giphy.gif" width="15%" style="display:inline;">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500px"/></p>
 
