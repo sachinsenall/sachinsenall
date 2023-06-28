@@ -170,16 +170,11 @@
 
 # <img src="assets/rocket.gif" width="48" height="48"> Actions
 
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kxa3drYmE4YWp6MzdrZTN0d2wwdTU3cG51OXB4OXUyNzdscDJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZzXHjQtnyPSuKqls3h/giphy.gif" width="30%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kxa3drYmE4YWp6MzdrZTN0d2wwdTU3cG51OXB4OXUyNzdscDJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZzXHjQtnyPSuKqls3h/giphy.gif" width="30%" style="display:inline;">
-
-
-
+<img align="left" src="https://media.giphy.com/media/2gyu76zd1k2eFlxVgw/giphy.gif" width="30%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/2gyu76zd1k2eFlxVgw/giphy.gif" width="30%" style="display:inline;">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500px"/></p>
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
-
-
 
 
 
