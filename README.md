@@ -173,9 +173,6 @@
 <img align="left" src="https://media.giphy.com/media/5sIjC7U2kUU8o7r1vE/giphy.gif" width="15%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/5sIjC7U2kUU8o7r1vE/giphy.gif" width="15%" style="display:inline;">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500px"/></p>
-
-<img align="left" src="https://media.giphy.com/media/5sIjC7U2kUU8o7r1vE/giphy.gif" width="15%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/5sIjC7U2kUU8o7r1vE/giphy.gif" width="15%" style="display:inline;">
-
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
 
 
