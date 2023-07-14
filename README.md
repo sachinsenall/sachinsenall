@@ -48,7 +48,7 @@
 
 
 
-<!-- Social -->
+<!-- Social Media -->
 
 
 <!-- all svgs have in assets folder -->
@@ -69,7 +69,12 @@
 </a> 
 
 <a href="https://stackoverflow.com/users/22059714/sachin-senal">
-  <img src="/assets/stackoverflow.svg" width="40" height="40" alt="Linkedin Profile">
+  <img src="/assets/site.svg" width="40" height="40" alt="Linkedin Profile">
+</a> 
+
+
+<a href="https://www.sachinsenal.tech">
+  <img src="/assets/stackoverflow.svg" width="40" height="40" alt="My Website">
 </a> 
 
 </div>
