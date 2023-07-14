@@ -60,7 +60,7 @@
   <img src="/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
 </a>
 
-<a href="https://www.linkedin.com/in/sachin-senal/">
+<a href="https://www.linkedin.com/in/sachin-senal">
   <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
 </a> 
 
@@ -68,13 +68,13 @@
   <img src="/assets/dev.to.svg" width="52" height="40" alt="Linkedin Profile">
 </a> 
 
+
 <a href="https://stackoverflow.com/users/22059714/sachin-senal">
-  <img src="/assets/site.svg" width="40" height="40" alt="Linkedin Profile">
+  <img src="/assets/stackoverflow.svg" width="40" height="40" alt="stackoverflow">
 </a> 
 
-
 <a href="https://www.sachinsenal.tech">
-  <img src="/assets/stackoverflow.svg" width="40" height="40" alt="My Website">
+  <img src="/assets/site.svg" width="40" height="40" alt="My Website">
 </a> 
 
 </div>
