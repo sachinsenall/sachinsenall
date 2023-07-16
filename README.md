@@ -85,7 +85,20 @@
 
 <!-- Get main.yml File From .github/workflows Folder After Run workflow file using  Github Actions -->  <!-- or https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66-->
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/github-contribution-grid-snake.svg"/></p> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sachinsenal0x64/sachinsenal0x64/preview/github-contribution-grid-snake-dark.svg?palette=github-dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sachinsenal0x64/sachinsenal0x64/preview/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sachinsenal0x64/sachinsenal0x64/preview/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <br>
 
