@@ -55,6 +55,7 @@
 
 
 <div align="center">
+<img align='right' src='/assets/github.gif' width='200'>
 
    <a href="https://twitter.com/_sachinsenal">
   <img src="/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
@@ -76,8 +77,6 @@
 <a href="https://www.sachinsenal.tech">
   <img src="/assets/site.svg" width="40" height="40" alt="My Website">
 </a> 
-
- <img src="/assets/github.gif" width="40" height="40" alt="My Website">
 
 </div>
 
