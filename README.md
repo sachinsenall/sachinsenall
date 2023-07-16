@@ -55,7 +55,6 @@
 
 
 <div align="center">
-<img align='right' src='/assets/github.gif' width='200'>
 
    <a href="https://twitter.com/_sachinsenal">
   <img src="/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
@@ -176,7 +175,9 @@
 
 # <img src="assets/rocket.gif" width="48" height="48"> Actions
 
-<img align="left" src="https://media.giphy.com/media/5sIjC7U2kUU8o7r1vE/giphy.gif" width="15%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/5sIjC7U2kUU8o7r1vE/giphy.gif" width="15%" style="display:inline;">
+
+<img align='right' src='/assets/github.gif' width='200'>
+<img align='left' src='/assets/github.gif' width='200'>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500px"/></p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
