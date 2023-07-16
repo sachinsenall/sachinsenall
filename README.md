@@ -77,6 +77,8 @@
   <img src="/assets/site.svg" width="40" height="40" alt="My Website">
 </a> 
 
+ <img src="/assets/github.gif" width="40" height="40" alt="My Website">
+
 </div>
 
 
