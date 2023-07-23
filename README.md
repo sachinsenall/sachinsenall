@@ -110,7 +110,7 @@
 
 <!-- Gears -->
 
-# <img src="assets/box.gif" width="48" height="48"> TECH STACK
+# <img src="assets/box.gif" width="48" height="48"> Tech Stack
 
 <!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
