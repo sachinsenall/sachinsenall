@@ -114,7 +114,7 @@
 
 <!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com)
+[![Windows](https://img.shields.io/badge/Windows-10-0078D4?style=style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com)
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
     [![Edge](https://img.shields.io/badge/Edge-0078D7?style=style=flat-square&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/edge)
     [![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-GB/firefox)
