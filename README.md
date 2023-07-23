@@ -27,7 +27,7 @@
 
 
 
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <a href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/-Open%20Source%20💖%20-blue?logo=github&logoColor=black&style=flat" height="22"  alt="Open Source Love"/></a>
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> HEY <img width="80px" src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/>  <a href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/-Open%20Source%20💖%20-blue?logo=github&logoColor=black&style=flat" height="22"  alt="Open Source Love"/></a>
 
 
 
@@ -110,7 +110,7 @@
 
 <!-- Gears -->
 
-# <img src="assets/box.gif" width="48" height="48"> Tech Stack
+# <img src="assets/box.gif" width="48" height="48"> TECH STACK
 
 <!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
@@ -184,7 +184,7 @@
 
 
 
-# <img src="assets/rocket.gif" width="48" height="48"> Actions
+# <img src="assets/rocket.gif" width="48" height="48"> ACTIONS
 
 <img align="left" src="/assets/github.gif" width="15%" style="display:inline;"><img align="right" src="/assets/github.gif" width="15%" style="display:inline;">
 
@@ -200,7 +200,7 @@
 
 <!-- Use giphy.com for Animate Stickers -->
 
-# <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/badge.gif" width="48" height="48"> Badges 
+# <img src="https://github.com/sachinsenal0x64/sachinsenal0x64/blob/2552260f849f4bf72664f6e13d9c3158b53b7630/assets/badge.gif" width="48" height="48"> BADGES 
 
 [![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
 
@@ -210,7 +210,7 @@
 
 <!-- https://giphy.com/stickers/winner-congratulations-l0Exj6t3iK0Xzv00E or use assets folder in this repo -->
 
-# <img src="assets/actions.gif" width="62" height="62"> Trophy
+# <img src="assets/actions.gif" width="62" height="62"> THROPHY
 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical&row=1&column=7&no-frame=false&no-bg=false"/> </div>
