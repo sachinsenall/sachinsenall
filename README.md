@@ -160,7 +160,7 @@
 [![DATAGRIP](https://img.shields.io/badge/DataGrip-000000.svg?style=flat&logo=DataGrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 [![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
     
 
 
