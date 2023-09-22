@@ -34,7 +34,9 @@
 </div>
 
 
-<!-- Welcome -->
+<br><br>
+
+<!-- About -->
 
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg-->
