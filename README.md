@@ -5,11 +5,11 @@
 
 <div align="center">
     
-<p align="center">
-  <a href="https://github.com/sachinsenal0x64">
+
+<a href="https://github.com/sachinsenal0x64">
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=sachinsenal0x64&fontSize=40&fontAlignY=35" />
   </a>
-</p>
+
 
 
 ##### *⚡ I'm a passionate open-source backend developer obsessed with cloud.*
