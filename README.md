@@ -3,11 +3,14 @@
 <!--  https://github.com/kyechan99/capsule-render  -->
 
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=sachinsenal0x64&fontSize=40&fontAlignY=35"/>  
+<div align="center">
+    
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=sachinsenal0x64&fontSize=40&fontAlignY=35"/> </p>
 
+##### *⚡ I'm a passionate open-source backend developer obsessed with cloud.*
 
-</p>
+</div>
+
 
 
 <!-- Banner -->
@@ -75,12 +78,6 @@
 <a href="https://www.sachinsenal.tech">
   <img src="/assets/site.svg" width="40" height="40" alt="My Website">
 </a> 
-
-<br>
-
-##### *⚡ I'm a passionate open-source backend developer obsessed with cloud.*
-
-
 
 </div>
 
