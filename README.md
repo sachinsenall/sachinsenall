@@ -192,7 +192,7 @@
 
 <img align="left" src="/assets/github.gif" width="15%" style="display:inline;"><img align="right" src="/assets/github.gif" width="15%" style="display:inline;">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&include_total_commits=true&count_private=true&card_width=500px"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&show_icons=true&include_total_commits=true&count_private=true&card_width=500px"/></p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
 
 
