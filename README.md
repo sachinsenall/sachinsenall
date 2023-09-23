@@ -30,7 +30,7 @@
 
 <br>
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></a> HEY <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif" width="90"></a> <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/></a> <a href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/-Open%20Source%20💖%20-blue?logo=github&logoColor=black&style=flat" height="22" alt="Open Source Lover"></a> <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"> <img align="right" src="https://img.shields.io/badge/Open-Source-darkgreen.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IkxvZ28iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik03Ljc0NjU5NDEyLDkuOTg0OTE0NiBDOC42ODM5NTI1Miw5LjYyMzIxMTg2IDkuMjMxMjM0NzcsOC42NDA4OTIxMyA5LjA0ODI0MjQ2LDcuNjQ4NTc5MjkgQzguODY1MjUwMTUsNi42NTYyNjY0NCA4LjAwNDA1OTk4LDUuOTM2MzU3MDggNyw1LjkzNjM1NzA4IEM1Ljk5NTk0MDAxLDUuOTM2MzU3MDggNS4xMzQ3NDk4Nyw2LjY1NjI2NjQ0IDQuOTUxNzU3NTMsNy42NDg1NzkyOSBDNC43Njg3NjUyMiw4LjY0MDg5MjEzIDUuMzE2MDQ3NDcsOS42MjMyMTE4NiA2LjI1MzQwNTksOS45ODQ5MTQ2IEw0Ljg1MDIwODY2LDEzLjY1OTk5OTggQzIuMTUwNDY3MTUsMTIuNjE4NDYwNSAwLjU3NDA5MTU5OCw5Ljc4OTM3MTEgMS4xMDEwMjI3Miw2LjkzMTQxMTQ3IEMxLjYyNzk1Mzg1LDQuMDczNDUxODUgNC4xMDgyMjY1NywyIDcsMiBDOS44OTE3NzM0MywyIDEyLjM3MjA0NjEsNC4wNzM0NTE4NSAxMi44OTg5NzczLDYuOTMxNDExNDcgQzEzLjQyNTkwODQsOS43ODkzNzExIDExLjg0OTUzMjgsMTIuNjE4NDYwNSA5LjE0OTc5MTM0LDEzLjY1OTk5OTggTDcuNzQ2NTk0MTIsOS45ODQ5MTQ2IEw3Ljc0NjU5NDEyLDkuOTg0OTE0NiBaIiBpZD0ib3NzLWxvZ28iIHN0cm9rZT0iIzIxNTUyQSIgc3Ryb2tlLXdpZHRoPSIwLjUiIGZpbGw9IiMzRkE2NTIiPjwvcGF0aD4KICAgIDwvZz4KPC9zdmc+&style=flat" height="22" alt="Open Source"></a>
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62"></a> HEY <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/sachinsenal0x64/assets/Handshake.gif" width="90"></a> <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/></a> <a href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/-Open%20Source%20💖%20-blue?logo=github&logoColor=black&style=flat" height="22" alt="Open Source Lover"></a> <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"> <img align="right" src="https://img.shields.io/badge/Open-Source-darkgreen.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IkxvZ28iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik03Ljc0NjU5NDEyLDkuOTg0OTE0NiBDOC42ODM5NTI1Miw5LjYyMzIxMTg2IDkuMjMxMjM0NzcsOC42NDA4OTIxMyA5LjA0ODI0MjQ2LDcuNjQ4NTc5MjkgQzguODY1MjUwMTUsNi42NTYyNjY0NCA4LjAwNDA1OTk4LDUuOTM2MzU3MDggNyw1LjkzNjM1NzA4IEM1Ljk5NTk0MDAxLDUuOTM2MzU3MDggNS4xMzQ3NDk4Nyw2LjY1NjI2NjQ0IDQuOTUxNzU3NTMsNy42NDg1NzkyOSBDNC43Njg3NjUyMiw4LjY0MDg5MjEzIDUuMzE2MDQ3NDcsOS42MjMyMTE4NiA2LjI1MzQwNTksOS45ODQ5MTQ2IEw0Ljg1MDIwODY2LDEzLjY1OTk5OTggQzIuMTUwNDY3MTUsMTIuNjE4NDYwNSAwLjU3NDA5MTU5OCw5Ljc4OTM3MTEgMS4xMDEwMjI3Miw2LjkzMTQxMTQ3IEMxLjYyNzk1Mzg1LDQuMDczNDUxODUgNC4xMDgyMjY1NywyIDcsMiBDOS44OTE3NzM0MywyIDEyLjM3MjA0NjEsNC4wNzM0NTE4NSAxMi44OTg5NzczLDYuOTMxNDExNDcgQzEzLjQyNTkwODQsOS43ODkzNzExIDExLjg0OTUzMjgsMTIuNjE4NDYwNSA5LjE0OTc5MTM0LDEzLjY1OTk5OTggTDcuNzQ2NTk0MTIsOS45ODQ5MTQ2IEw3Ljc0NjU5NDEyLDkuOTg0OTE0NiBaIiBpZD0ib3NzLWxvZ28iIHN0cm9rZT0iIzIxNTUyQSIgc3Ryb2tlLXdpZHRoPSIwLjUiIGZpbGw9IiMzRkE2NTIiPjwvcGF0aD4KICAgIDwvZz4KPC9zdmc+&style=flat" height="22" alt="Open Source"></a>
 
   
 <br>
@@ -113,7 +113,7 @@
 
 <!-- Gears -->
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/box.gif" width="48" height="48"></a> TECH STACK
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/box.gif" width="62" height="62"></a> TECH STACK
 
 <!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
@@ -186,7 +186,7 @@
 
 
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/rocket.gif" width="48" height="48"></a> ACTIONS
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/rocket.gif" width="62" height="62"></a> ACTIONS
 
 
 
@@ -205,7 +205,7 @@
 <!-- Use giphy.com for Animate Stickers -->
 
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/badge.gif" width="48" height="48"></a> BADGES
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/badge.gif" width="62" height="62"></a> BADGES
 
 [![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
 
@@ -215,7 +215,8 @@
 
 <!-- https://giphy.com/stickers/winner-congratulations-l0Exj6t3iK0Xzv00E or use assets folder in this repo -->
 
-# <img src="assets/actions.gif" width="62" height="62"> TROPHIES
+
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/actions.gif" width="62" height="62"></a> TROPHIES
 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical&row=1&column=7&no-frame=false&no-bg=false"/> </div>
