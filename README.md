@@ -166,6 +166,7 @@
 [![DATAGRIP](https://img.shields.io/badge/DataGrip-000000.svg?style=flat&logo=DataGrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 [![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+[![Azure](https://img.shields.io/badge/Azure-1793D1?logo=microsoftazure&logoColor=fff&style=flat)](https://azure.com)
 
     
 
