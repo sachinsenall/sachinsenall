@@ -120,7 +120,6 @@
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)](https://github.com/brave)
 [![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-GB/firefox)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
 [![Git](https://img.shields.io/badge/-Git-FCC624?style=style=flat-square&logo=git)](https://git-scm.com)
