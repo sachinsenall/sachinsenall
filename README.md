@@ -156,7 +156,7 @@
 ![REST](https://img.shields.io/badge/Rest-ebedf0?style=style=flat-square&logo=fastapi&logoColor=darkblue)
 ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
 ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
-[![FASTAPI](https://img.shields.io/badge/FastApi-darkgreen?style=style=flat-square&logo=fastapi&logoColor=03fc84)](https://fastapi.tiangolo.com)
+[![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![VPN](https://img.shields.io/badge/Xray-575757?style=style=flat-square&logo=X)](https://github.com/XTLS/Xray-core)
 [![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-gb)
 [![REPLIT](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com)
