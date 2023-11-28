@@ -148,7 +148,7 @@
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=style=flat-square&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com)
 [![Proxmox](https://img.shields.io/badge/Proxmox_VE-e57000?style=style=flat-square&logo=Proxmox&logoColor=white)](https://pve.proxmox.com)
 [![Kernel Virtual Machine](https://img.shields.io/badge/Kernel_Virtual_Machine-d9edf7?style=style=flat-square&logo=Kongregate&logoColor=black)](https://www.linux-kvm.org)
-![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat-square&logo=OpenWrt&logoColor=white)
+![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat&logo=OpenWrt&logoColor=white)
 [![Harbor](https://img.shields.io/badge/Harbor-60b392?style=style=flat-square&logo=Harbor&logoColor=white)](https://goharbor.io)
 [![Helm](https://img.shields.io/badge/Helm-0f1689?style=style=flat-square&logo=Helm&logoColor=white)](https://helm.sh)
 ![Socket](https://img.shields.io/badge/Socket-010101?style=style=flat-square&logo=Socket.io&logoColor=white)
