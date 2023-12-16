@@ -47,9 +47,7 @@
 
 <div align="left">
 
-<!-- Gears -->
-
-<!-- Badges = 
+<!-- Tech Stack = 
 
 https://shields.io 
 https://github.com/Envoy-VC/awesome-badges 
