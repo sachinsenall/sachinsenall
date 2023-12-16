@@ -70,7 +70,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 [![Git](https://img.shields.io/badge/-Git-FCC624?style=style=flat-square&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
 [![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat)](https://docs.github.com/en/pages)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=style=flat-square&logo=GitHubActions&logoColor=white)](https://github.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=style=flat-square&logo=GitHubActions&logoColor=white)](https://docs.github.com/en/actions)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=style=flat-square&logo=GitLab)](https://docs.gitlab.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ed?style=style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![MySQL](https://img.shields.io/badge/mysql-d9edf7?style=style=flat-square&logo=mysql)](https://www.mysql.com)
@@ -97,6 +97,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 [![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com)
 [![Azure](https://img.shields.io/badge/Azure-1793D1?logo=microsoftazure&logoColor=fff&style=flat)](https://azure.com)
 [![Httpie](https://img.shields.io/badge/Httpie-brown?logo=httpie&logoColor=fff&style=flat)](https://httpie.io)
+[![Zola](https://img.shields.io/badge/Zola-gray.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAB60lEQVRYw+2YP0hVURzHv++f1jM0XlTm4CIt4VCTg05BuAgiDoZEQ7S2Bi6GCOHS4iBRT1zdAommF4QkDv4bfFC4OBj0B55Qvuf19fB8XGz0nnMP71hD54znez6fc+65XH7nSlJeo3qvA9HEfqgPGtMlScrrhaKmwv/0uorqkEZVC4JHKNKDjF6pR6FaVp0pVdUWTCBVUyIgXiK0QOmw+HMQZO0rSFkSyPgLchpRn0VQ1oJlATE9TxFbexNL+Ntn0NCS9s4Yu6d+SdKmReH5nelmC4BV2uOTfvgcz2gAFfpsWT/BXb4BdWZoDSG4zCcAtumyp30ez2sAagy45JPiU4ywD9R56jYjqeAKHzEYSlwLIcjwHIAKw65zkgnucwQYpsmGENykDECJNvdZ7vgWZjjG8J3bSXbtHh2iAhwxRUsIQSe7AGxwNdGpOQpaWQTgF3eS4d0Eacb5CUQ8SYp3E1xnA4PhHYUQgixzAPxgMDneRfCYBnDMBOkQgl52AFjiog/eJrjALAbDF2754W2CsdO3Z4KcpyC2+O3Sum5IOtC89s9Mbemtb1UxYC26ACZjd9CEwuuzf+H1VS8dBGuxo/8vIP+CIArKj9LaDiooZ1TTkP2m5tl+a+ocfoZIHXqoZVWbCj/Uih6pIJ0AE+y5T215F/QAAAAASUVORK5CYII=)](https://www.getzola.org)
 
 </div>
 
