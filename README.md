@@ -211,17 +211,6 @@
 
 
 
-<!-- Profile Trophy -->
-
-<!-- https://giphy.com/stickers/winner-congratulations-l0Exj6t3iK0Xzv00E or use assets folder in this repo -->
-
-
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/actions.gif" width="62" height="62"></a> TROPHIES
-
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sachinsenal0x64&theme=radical&row=1&column=7&no-frame=false&no-bg=false"/> </div>
-
-
 <br>
 
 <!-- Wave -->
