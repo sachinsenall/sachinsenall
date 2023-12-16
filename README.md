@@ -181,18 +181,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&show_icons=true&include_total_commits=true&count_private=true&card_width=500px"/></p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
 
-
-
-<br>
-
-<!-- Badges -->
-
-<!-- Use giphy.com for Animate Stickers -->
-
-
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/badge.gif" width="62" height="62"></a> BADGES
-
-[![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
-
-
-
