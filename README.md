@@ -78,6 +78,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 [![Proxmox](https://img.shields.io/badge/Proxmox_VE-e57000?style=style=flat-square&logo=Proxmox&logoColor=white)](https://pve.proxmox.com)
 [![Kernel Virtual Machine](https://img.shields.io/badge/Kernel_Virtual_Machine-d9edf7?style=style=flat-square&logo=Kongregate&logoColor=black)](https://www.linux-kvm.org)
 ![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=flat&logo=OpenWrt&logoColor=white)
+![OPNSense Badge](https://img.shields.io/badge/OPNSense-D94F00?logo=opnsense&logoColor=fff&style=flat)
 ![Socket](https://img.shields.io/badge/Socket-010101?style=style=flat-square&logo=Socket.io&logoColor=white)
 ![REST](https://img.shields.io/badge/Rest-ebedf0?style=style=flat-square&logo=fastapi&logoColor=darkblue)
 ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
