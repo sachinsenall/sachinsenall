@@ -1,19 +1,17 @@
 <!-- Wave -->
 
-<!--  https://github.com/kyechan99/capsule-render  -->
-
+<!-- https://github.com/denvercoder1/readme-typing-svg-->
 
 <div align="center">
     
 <a href="https://en.wikipedia.org/wiki/Diogenes"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrain+Mono&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Minimalism+is+the+best" alt="Typing SVG" /></a>
+
+
 </div>
 
 
-
-<!-- Banner -->
-
-<!-- Get gif from assets folder -->
 
 
 
