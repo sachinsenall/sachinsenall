@@ -62,6 +62,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
 [![Git](https://img.shields.io/badge/-Git-FCC624?style=style=flat-square&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
+![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=style=flat-square&logo=GitHubActions&logoColor=white)](https://github.com)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=style=flat-square&logo=GitLab)](https://docs.gitlab.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ed?style=style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
