@@ -26,11 +26,11 @@ https://github.com/antonkomarev/github-profile-views-counter -->
 </div>
 
 
-
 <!-- Snake Graph 
 Get main.yml File From .github/workflows Folder After Run workflow
 https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 https://github.com/Platane/snk -->
+
 
 <div align="center">
     
@@ -60,8 +60,6 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 <div align="left">
 
 # <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62" height="62"></a> TECH STACK
-
-
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
