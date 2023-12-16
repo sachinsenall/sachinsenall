@@ -5,7 +5,7 @@
 
 <div align="center">
     
-<a href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" /></a>
+<a href="https://en.wikipedia.org/wiki/Diogenes"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.webp" /></a>
 
 </div>
 
