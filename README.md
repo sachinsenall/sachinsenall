@@ -197,7 +197,6 @@
 
 
 
-
 <br>
 
 <!-- Badges -->
@@ -210,15 +209,4 @@
 [![An image of @sachinsenal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinsenal)](https://holopin.io/@sachinsenal)
 
 
-
-<br>
-
-<!-- Wave -->
-
-<!--  https://github.com/kyechan99/capsule-render  -->
-
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&animation=blinking&height=160&section=footer&text=🐟🐟🐟🐟🐍&fontSize=40&fontAlignY=70"/>
-</p>
 
