@@ -10,10 +10,7 @@
 
 </div>
 
-
-
 <!-- Greeting Section -->
-
 
 <!-- Open Source Badge SVG =  https://github.com/ellerbrock/open-source-badges-->
 
@@ -21,6 +18,7 @@
 
 <!-- Handshake.gif have in /sachinsenal0x64/assets/ folder in this repo -->
 
+<div align="left">
 
 # <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62"></a> HEY  <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"> <img align="right" src="https://komarev.com/ghpvc/?username=sachinsenal0x64&style=flat&color=blue&label=PROFILE+VIEWS"/></a><a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img align="right" src="https://img.shields.io/badge/Open-Source-darkgreen.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE0cHgiIGhlaWdodD0iMTRweCIgdmlld0JveD0iMCAwIDE0IDE0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IkxvZ28iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik03Ljc0NjU5NDEyLDkuOTg0OTE0NiBDOC42ODM5NTI1Miw5LjYyMzIxMTg2IDkuMjMxMjM0NzcsOC42NDA4OTIxMyA5LjA0ODI0MjQ2LDcuNjQ4NTc5MjkgQzguODY1MjUwMTUsNi42NTYyNjY0NCA4LjAwNDA1OTk4LDUuOTM2MzU3MDggNyw1LjkzNjM1NzA4IEM1Ljk5NTk0MDAxLDUuOTM2MzU3MDggNS4xMzQ3NDk4Nyw2LjY1NjI2NjQ0IDQuOTUxNzU3NTMsNy42NDg1NzkyOSBDNC43Njg3NjUyMiw4LjY0MDg5MjEzIDUuMzE2MDQ3NDcsOS42MjMyMTE4NiA2LjI1MzQwNTksOS45ODQ5MTQ2IEw0Ljg1MDIwODY2LDEzLjY1OTk5OTggQzIuMTUwNDY3MTUsMTIuNjE4NDYwNSAwLjU3NDA5MTU5OCw5Ljc4OTM3MTEgMS4xMDEwMjI3Miw2LjkzMTQxMTQ3IEMxLjYyNzk1Mzg1LDQuMDczNDUxODUgNC4xMDgyMjY1NywyIDcsMiBDOS44OTE3NzM0MywyIDEyLjM3MjA0NjEsNC4wNzM0NTE4NSAxMi44OTg5NzczLDYuOTMxNDExNDcgQzEzLjQyNTkwODQsOS43ODkzNzExIDExLjg0OTUzMjgsMTIuNjE4NDYwNSA5LjE0OTc5MTM0LDEzLjY1OTk5OTggTDcuNzQ2NTk0MTIsOS45ODQ5MTQ2IEw3Ljc0NjU5NDEyLDkuOTg0OTE0NiBaIiBpZD0ib3NzLWxvZ28iIHN0cm9rZT0iIzIxNTUyQSIgc3Ryb2tlLXdpZHRoPSIwLjUiIGZpbGw9IiMzRkE2NTIiPjwvcGF0aD4KICAgIDwvZz4KPC9zdmc+&style=flat" height="22" alt="Open Source"></a>
 
@@ -44,11 +42,20 @@
 </picture>
 
 
+</div>
+
+
+<div align="left">
+
 <!-- Gears -->
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62" height="62"></a> TECH STACK
+<!-- Badges = 
 
-<!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
+https://shields.io 
+https://github.com/Envoy-VC/awesome-badges 
+https://home.aveek.io/GitHub-Profile-Badges -->
+
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62" height="62"></a> TECH STACK
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
@@ -101,8 +108,9 @@
 [![Azure](https://img.shields.io/badge/Azure-1793D1?logo=microsoftazure&logoColor=fff&style=flat)](https://azure.com)
 [![Httpie](https://img.shields.io/badge/Httpie-brown?logo=httpie&logoColor=fff&style=flat)](https://httpie.io)
 
-    
+</div>
 
+<div align="left">
 
 <!-- Readme stats Actions -->
 
@@ -110,14 +118,9 @@
 
 <!-- GIF =  https://giphy.com/stickers/PragmaSchool-rocket-pragma-pragmaschool-VJ7gjWkHUVfpXT2PLp -->
 
-
-
-
 # <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62" height="62"></a> ACTIONS
 
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&show_icons=true&include_total_commits=true&count_private=true&card_width=500px"/></p>
-
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
 
+</dev>
