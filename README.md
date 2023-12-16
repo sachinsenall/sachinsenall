@@ -62,7 +62,7 @@
 
 <!-- Gears -->
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/box.gif" width="62" height="62"></a> TECH STACK
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62" height="62"></a> TECH STACK
 
 <!-- Badges = https://shields.io and https://github.com/Envoy-VC/awesome-badges and https://home.aveek.io/GitHub-Profile-Badges -->
 
@@ -136,7 +136,7 @@
 
 
 
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="assets/rocket.gif" width="62" height="62"></a> ACTIONS
+# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62" height="62"></a> ACTIONS
 
 
 
