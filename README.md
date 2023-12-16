@@ -13,18 +13,6 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 
 </div>
- 
-
-<!-- Greeting Section 
-https://github.com/ellerbrock/open-source-badges
-https://github.com/antonkomarev/github-profile-views-counter -->
-
-
-
-<div align="left">
-    
-# <a title="Hits" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="62"></a> HEY 
-</div>
 
 
 <!-- Snake Graph 
