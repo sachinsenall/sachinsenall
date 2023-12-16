@@ -5,7 +5,7 @@
 
 <div align="center">
     
-<a href="https://github.com/sachinsenal0x64"><img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Minimalism&fontSize=40&fontAlignY=35" /></a>
+<a href="https://github.com/sachinsenal0x64"><img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Minimalism+is+the+best&fontSize=40&fontAlignY=35" /></a>
 
 </div>
 
