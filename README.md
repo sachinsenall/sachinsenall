@@ -35,39 +35,6 @@
   
 <br>
 
-<!-- Social Media -->
-
-
-<!-- all svgs have in assets folder -->
-
-
-<div align="center">
-
-   <a href="https://twitter.com/_sachinsenal">
-  <img src="/assets/twitter.svg" width="52" height="40" alt="Twitter Profile">
-</a>
-
-<a href="https://www.linkedin.com/in/sachin-senal">
-  <img src="/assets/linkedin.svg" width="52" height="40" alt="Linkedin Profile">
-</a> 
-
-<a href="https://dev.to/sachinsenal">
-  <img src="/assets/dev.to.svg" width="52" height="40" alt="Linkedin Profile">
-</a> 
-
-
-<a href="https://stackoverflow.com/users/22059714/sachin-senal">
-  <img src="/assets/stackoverflow.svg" width="40" height="40" alt="stackoverflow">
-</a> 
-
-<a href="https://www.sachinsenal.tech">
-  <img src="/assets/site.svg" width="40" height="40" alt="My Website">
-</a> 
-
-</div>
-
-
-<br>
 <!-- Snake Graph -->
 
 <!-- Get main.yml File From .github/workflows Folder After Run workflow file using  Github Actions -->  <!-- or https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 --> <!-- or https://github.com/Platane/snk -->
