@@ -60,7 +60,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 [![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-GB/firefox)
 [![Python](https://img.shields.io/badge/-Python-FCC624?style=style=flat-square&logo=Python)](https://www.python.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
-![Gitea Badge](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=fff&style=flat)
+[![Gitea Badge](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=fff&style=flat)](https://github.com/go-gitea/gitea)
 [![Git](https://img.shields.io/badge/-Git-FCC624?style=style=flat-square&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
 ![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat)
