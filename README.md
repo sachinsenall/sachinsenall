@@ -47,7 +47,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 
 <div align="left">
 
-# <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/vim_on_fire.50moes0behds.gif"/></a>      TECH STACK
+# <a title="Tech stack" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/mGcNjsfWAjY5AEZNw6.1vj6w6fexin4.gif" width="62" height="62"></a> TECH STACK
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
 ![FreeBSD Badge](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff&style=flat)
@@ -98,7 +98,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 
 <div align="left">
 
-# <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/vim_on_fire.50moes0behds.gif" /></a>     ACTIONS
+# <a title="Actions" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/mGcNjsfWAjY5AEZNw6.1vj6w6fexin4.gif" width="62" height="62"></a> ACTIONS
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&show_icons=true&include_total_commits=true&count_private=true&card_width=500px"/></p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
