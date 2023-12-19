@@ -47,8 +47,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 
 <div align="left">
 
-# <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/vim_on_fire.50moes0behds.gif" /></a> TECH STACK
-
+# <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/vim_on_fire.50moes0behds.gif"/></a> TECH STACK
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
 ![FreeBSD Badge](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
