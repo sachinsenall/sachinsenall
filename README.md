@@ -91,16 +91,4 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 
 </div>
 
-<!-- Readme stats Actions
- https://github.com/anuraghazra/github-readme-stats and https://github.com/DenverCoder1/github-readme-streak-stats
- https://giphy.com/stickers/PragmaSchool-rocket-pragma-pragmaschool-VJ7gjWkHUVfpXT2PLp -->
 
-
-<div align="left">
-
-# <a title="Actions" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/mGcNjsfWAjY5AEZNw6.1vj6w6fexin4.gif" width="62" height="62"></a> ACTIONS
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sachinsenal0x64&theme=tokyonight&hide_border=true&show_icons=true&include_total_commits=true&count_private=true&card_width=500px"/></p>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=sachinsenal0x64&theme=tokyonight&hide_border=true&card_width=500px"/></p>
-
-</dev>
