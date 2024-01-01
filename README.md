@@ -39,7 +39,6 @@ https://github.com/Platane/snk -->
 
 </div>
 
-
 <!-- Tech Stack = 
 https://shields.io 
 https://github.com/Envoy-VC/awesome-badges 
