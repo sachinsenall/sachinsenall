@@ -58,8 +58,6 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 [![MySQL](https://img.shields.io/badge/mysql-d9edf7?style=style=flat-square&logo=mysql)](https://www.mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=style=flat-square&logo=html5&logoColor=white)](https://html5.org)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat-square&logo=css3)](https://www.w3.org)
 [![Markdown](https://img.shields.io/badge/-Markdown-black?style=style=flat-square&logo=markdown)](https://www.markdownguide.org)
 ![Shell Script](https://img.shields.io/badge/shell_Script-black?style=style=flat-square&logo=GNOMETerminal)
 [![Redis](https://img.shields.io/badge/Redis-dc382d?style=style=flat-square&logo=Redis&logoColor=white)](https://www.redislabs.com)
