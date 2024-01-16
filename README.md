@@ -71,7 +71,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
 ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
 [![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
-[![VPN](https://img.shields.io/badge/Xray-575757?style=style=flat&logo=X)
+[![VPN](https://img.shields.io/badge/Xray-575757?style=style=flat&logo=X)](https://github.com/XTLS/Xray-core)
 [![FLASK](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/pallets/flask)
 [![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com)
 [![Azure](https://img.shields.io/badge/Azure-1793D1?logo=microsoftazure&logoColor=fff&style=flat)](https://azure.com)
