@@ -71,7 +71,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
 ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
 [![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
-[![VPN](https://img.shields.io/badge/Xray-575757?style=style=flat&logo=data:image/webp;base64,UklGRs4BAABXRUJQVlA4IMIBAAAwCQCdASowADAAPpFAnEolo6Kho4wAsBIJaQARVmLf/jvF2Wjf4DHfTI/+Z5ffov/rKfhAS5TqEArOahbsftHJLc+ISDDZ4YGq7QEL85uC+oIAAP78kr3f+5F5zMd+QeOqasYBk/+v8C2hB2Yu/N5/HSa339yd5ECtbI9d8Qv2Pz4Arb/3y3RCixxaloNQQouw1Lo9TsZdgYsaP/vNge9kDJ7BjyJ2NefUtlFoWOuTWQN6tMz2h//LelI94XdnNDeu6ZDTGRd9cjv3cumQSUW1a5hEnq96vB8LMD0EQRQ1Y3xqmFfHzeLVo3mugDi/Wd+Lcdrz9pLcOfWgAlPIwyvH0b7rp5P5ZKL7BMTlswl/75lDD4o/NMNm1etMMR8kie/o3+0FXVXB1B6icSrvmU6KvRjCfB+luC3kKZHWyHmzJQempwswu+Vhf48zHdKtKuFjX+NN3x5wEt4f68RPbnNWYU1ndk6A4QtiT1XmNJBFJCRR7fhJr/7TPmMLVaoSScwTKLZnTkfCSdtyULRPtKZDtpSf9jHfSW/o+uH/SxTdTxRFOmQhL4+JMCJ+3ExNA1Ekrte/be9j6uUDbY227/GQAAA=)](https://github.com/XTLS/Xray-core)
+[![VPN](https://img.shields.io/badge/Xray-575757?style=style=flat&logo=X)
 [![FLASK](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/pallets/flask)
 [![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com)
 [![Azure](https://img.shields.io/badge/Azure-1793D1?logo=microsoftazure&logoColor=fff&style=flat)](https://azure.com)
