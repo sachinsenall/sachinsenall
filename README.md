@@ -19,25 +19,6 @@ https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-f
 https://github.com/Platane/snk -->
 
 
-<div align="center">
-    
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sachinsenal0x64/sachinsenal0x64/preview/github-contribution-grid-snake-dark.svg?palette=github-dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sachinsenal0x64/sachinsenal0x64/preview/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/sachinsenal0x64/sachinsenal0x64/preview/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
 <!-- Tech Stack = 
 https://shields.io 
 https://github.com/Envoy-VC/awesome-badges 
