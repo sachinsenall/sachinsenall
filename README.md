@@ -30,6 +30,7 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
 [![Python](https://img.shields.io/badge/-Python-FCC624?style=style=flat-square&logo=Python)](https://www.python.org)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=style=flat-square&logo=go&logoColor=white)
 ![FreeBSD Badge](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
