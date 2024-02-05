@@ -27,12 +27,6 @@ https://home.aveek.io/GitHub-Profile-Badges -->
 
 <div align="left">
 
-## 💬 My Blog Articles
-
-[Here](https://401658.xyz)
-
-<br>
-
 # <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/mGcNjsfWAjY5AEZNw6.1vj6w6fexin4.gif" width="62" height="62"></a> What I Use
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org)
