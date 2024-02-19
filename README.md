@@ -17,9 +17,9 @@ https://github.com/denvercoder1/readme-typing-svg -->
 ### 🚀  HiFi Echo-System
 
 -  [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui)
+-  [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs)
 -  [host-hifi-restapi-on-vercel](https://github.com/sachinsenal0x64/host-hifi-restapi-on-vercel)
 -  [hifi-rest-api-public](https://tidal.401658.xyz)
--  [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs)
 -  [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
 
 
