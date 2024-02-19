@@ -14,7 +14,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 # <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/mGcNjsfWAjY5AEZNw6.1vj6w6fexin4.gif" width="62" height="62"></a> My Empire
 
-## 🚀  HiFi Echosystem
+## 🚀  HiFi EchoSystem
 
 -  [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui)
 -  [host-hifi-restapi-on-vercel](https://github.com/sachinsenal0x64/host-hifi-restapi-on-vercel)
