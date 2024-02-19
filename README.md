@@ -20,7 +20,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 -  [host-hifi-restapi-on-vercel](https://github.com/sachinsenal0x64/host-hifi-restapi-on-vercel)
 -  [hifi-rest-api-public](https://tidal.401658.xyz)
 -  [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs)
--  [api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
+-  [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
 
 
 <div>
