@@ -12,7 +12,20 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 </div>
 
+# <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/mGcNjsfWAjY5AEZNw6.1vj6w6fexin4.gif" width="62" height="62"></a> What I Try To Build
 
+## 🚀  HiFi Echosystem
+
+-  [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui)
+-  [host-hifi-restapi-on-vercel](https://github.com/sachinsenal0x64/host-hifi-restapi-on-vercel)
+-  [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs)
+-  [hifi-rest-api](https://tidal.401658.xyz)
+
+
+<div>
+
+
+</div>
 <!-- Snake Graph 
 Get main.yml File From .github/workflows Folder After Run workflow
 https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
