@@ -11,7 +11,11 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 </div>
 
+<div align="center">
+
 # <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/satrunp.51dvwlzy0g.gif" width="62" height="62"></a> My Empire
+
+<div align="left">
 
 ### 🚀  HiFi Echo-System
 
@@ -21,12 +25,16 @@ https://github.com/denvercoder1/readme-typing-svg -->
 -  [hifi-rest-api-public](https://tidal.401658.xyz)
 -  [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
 
-### 🚀  Reverse Engineering
+</div>
 
-- [multi-gpt](https://github.com/sachinsenal0x64/multi-gpt)
-- [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui)
-- [stripe](https://github.com/sachinsenal0x64/stripe-reverse-checkout-session)
+<div align="right">
 
-<div>
+### 🚀 My Awesome Reverse Engineering
+
+- [openai.com](https://github.com/sachinsenal0x64/multi-gpt)
+- [tidal.com](https://github.com/sachinsenal0x64/hifi-tui)
+- [stripe.com](https://github.com/sachinsenal0x64/stripe-reverse-checkout-session)
   
+</div>
+
 </div>
