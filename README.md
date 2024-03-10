@@ -21,6 +21,11 @@ https://github.com/denvercoder1/readme-typing-svg -->
 -  [hifi-rest-api-public](https://tidal.401658.xyz)
 -  [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
 
+### 🚀  Reverse Engineering
+
+- [multi-gpt](https://github.com/sachinsenal0x64/multi-gpt)
+- [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui)
+- [stripe](https://github.com/sachinsenal0x64/stripe-reverse-checkout-session)
 
 <div>
   
