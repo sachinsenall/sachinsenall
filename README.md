@@ -14,10 +14,10 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 # <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/satrunp.51dvwlzy0g.gif" width="62" height="62"></a> My Empire
 
-| 🚀  HiFi Echo-System  | 🚀 Reverse Engineering |
-| ------------- | ------------- |
-| [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) | [openai.com](https://github.com/sachinsenal0x64/multi-gpt)  |
+| 🚀  HiFi Echo-System  | 🚀 Reverse Engineering | 🚀 Playing with X11/terminal |
+| ------------- | ------------- |----------------|
+| [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) | [openai.com](https://github.com/sachinsenal0x64/multi-gpt)  | [pixel](https://github.com/sachinsenal0x64/pixel)  |
 | [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs) | [tidal.com](https://github.com/sachinsenal0x64/hifi-tui) |
 | [host-hifi-restapi-on-vercel](https://github.com/sachinsenal0x64/host-hifi-restapi-on-vercel) |  [stripe.com](https://github.com/sachinsenal0x64/stripe-reverse-checkout-session)  |
-| [hifi-rest-api-public](https://tidal.401658.xyz)
+| [hifi-rest-api-public](https://tidal.401658.xyz) |[sonicbit.net](https://github.com/sachinsenal0x64/telegram-torrent-bot) |
 | [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
