@@ -23,7 +23,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 -  [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/loadbalancer)
 
 
-### 🚀 My Awesome Reverse Engineering
+### 🚀 Reverse Engineering
 
 - [openai.com](https://github.com/sachinsenal0x64/multi-gpt)
 - [tidal.com](https://github.com/sachinsenal0x64/hifi-tui)
