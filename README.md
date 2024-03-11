@@ -1,5 +1,6 @@
 <!-- Wave 
 https://github.com/denvercoder1/readme-typing-svg -->
+
 <div align="center">
 
 <a href="https://en.wikipedia.org/wiki/Diogenes"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.1i0vlm96kf4w.webp" /></a> 
