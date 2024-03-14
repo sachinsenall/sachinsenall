@@ -13,7 +13,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 ## <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/satrunp.51dvwlzy0g.gif" width="62" height="62"></a> My Empire
 
-| 🚀 HiFi Echo System  | 🚀 Reverse Engineering | 🚀 Fancy X11 / CLI | ⌛ Time / Wealth / Wisdom
+| 🚀 HiFi Echo System  | 🚀 Reverse Engineering | 🚀 Fancy X11 / CLI | ⌛ Time / Philosophy / Wisdom
 | -------------------------- | -------------------------- |-----------------------------|-----------------------------|
 | [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) | [openai.com](https://github.com/sachinsenal0x64/multi-gpt)  | [pixel](https://github.com/sachinsenal0x64/pixel)  | [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes) |
 | [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs) | [tidal.com](https://github.com/sachinsenal0x64/hifi-tui) | [crystal](https://github.com/sachinsenal0x64/crystal-theme) | [A New Look at an Old Devil ](https://index.401658.xyz/BOOKS/Liz%20Greene%20-%20Saturn%20A%20New%20Look%20at%20an%20Old%20Devil%20(2021).pdf)|
