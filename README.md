@@ -25,3 +25,8 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 </div>
 
+## 💕 Community
+
+> 🍻 Join the community:  <a href="https://discord.gg/EbfftZ5Dd4">Discord</a>
+> [![](https://cdn.statically.io/gh/sachinsenal0x64/picx-images-hosting@master/discord.72y8nlaw5mdc.webp)](https://discord.gg/EbfftZ5Dd4)
+
