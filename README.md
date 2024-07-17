@@ -19,8 +19,8 @@ https://github.com/denvercoder1/readme-typing-svg -->
 | -------------------------- | -------------------------- |-----------------------------|-----------------------------|
 | [hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) | [openai.com](https://github.com/sachinsenal0x64/multi-gpt)  | [pixel](https://github.com/sachinsenal0x64/pixel)  | [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes) |
 | [hifi-tui-docs](https://github.com/sachinsenal0x64/hifi-tui-docs) | [tidal.com](https://github.com/sachinsenal0x64/hifi-tui) | [crystal](https://github.com/sachinsenal0x64/crystal.yazi) | [A New Look at an Old Devil ](https://index.401658.xyz/BOOKS/Liz%20Greene%20-%20Saturn%20A%20New%20Look%20at%20an%20Old%20Devil%20(2021).pdf)|
-| [host-hifi-restapi-on-cloud](https://github.com/sachinsenal0x64/host-hifi-restapi-on-cloud) | [stripe.com](https://github.com/sachinsenal0x64/backstripe) | [The Grim Reaper](https://www.youtube.com/watch?v=_zEdagclxwo)  |
-| [hifi-rest-api-public](https://tidal.401658.xyz) |[sonicbit.net](https://github.com/sachinsenal0x64/telegram-torrent-bot) | [hot.nvim](https://github.com/sachinsenal0x64/hot.nvim) | [Cronus](https://en.wikipedia.org/wiki/Cronus) |
+| [host-hifi-restapi-on-cloud](https://github.com/sachinsenal0x64/host-hifi-restapi-on-cloud) | [stripe.com](https://github.com/sachinsenal0x64/backstripe) | [hot.nvim](https://github.com/sachinsenal0x64/hot.nvim) | [The Grim Reaper](https://www.youtube.com/watch?v=_zEdagclxwo)  |
+| [hifi-rest-api-public](https://tidal.401658.xyz) |[sonicbit.net](https://github.com/sachinsenal0x64/telegram-torrent-bot) |  | [Cronus](https://en.wikipedia.org/wiki/Cronus) |
 | [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/apigateway) | | | [Saturn: Father Time](https://en.wikipedia.org/wiki/Father_Time) |
 
 </div>
