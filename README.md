@@ -11,6 +11,13 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 </div>
 
+## 💕 Community
+
+> 🍻 Join the community:  <a href="https://discord.gg/EbfftZ5Dd4">Discord</a>
+> [![](https://cdn.statically.io/gh/sachinsenal0x64/picx-images-hosting@master/discord.72y8nlaw5mdc.webp)](https://discord.gg/EbfftZ5Dd4)
+
+<br>
+
 ## <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/satrunp.51dvwlzy0g.gif" width="62" height="62"></a> My Empire
 
 <div align="center">
@@ -24,9 +31,3 @@ https://github.com/denvercoder1/readme-typing-svg -->
 | [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/apigateway) | | | [Saturn: Father Time](https://en.wikipedia.org/wiki/Father_Time) |
 
 </div>
-
-## 💕 Community
-
-> 🍻 Join the community:  <a href="https://discord.gg/EbfftZ5Dd4">Discord</a>
-> [![](https://cdn.statically.io/gh/sachinsenal0x64/picx-images-hosting@master/discord.72y8nlaw5mdc.webp)](https://discord.gg/EbfftZ5Dd4)
-
