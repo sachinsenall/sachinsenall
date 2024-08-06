@@ -3,7 +3,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 <br>
 
-## 🛠️ Useful Stuffs
+### 🛠️ Useful Stuffs
 
 [Here](https://github.com/sachinsenal0x64?tab=stars)
 
@@ -13,14 +13,14 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 <br>
 
-## 💕 Community
+### 💕 Community
 
 > 🍻 Join the community:  <a href="https://discord.gg/EbfftZ5Dd4" alt="sachinsenal0x64">Discord</a>
 > [![](https://cdn.statically.io/gh/sachinsenal0x64/picx-images-hosting@master/discord.72y8nlaw5mdc.webp)](https://discord.gg/EbfftZ5Dd4)
 
 <br>
 
-## ⭐ What I've done so far 
+### ⭐ What I've done so far 
 
 | 🚀 HiFi Echo System  | 🚀 Reverse Engineering | 🚀 Fancy X11 / CLI / Templet | ⌛ Time / Philosophy / Wisdom
 | -------------------------- | -------------------------- |-----------------------------|-----------------------------|
