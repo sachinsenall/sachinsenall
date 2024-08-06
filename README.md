@@ -3,7 +3,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 <br>
 
-## Useful Stuffs
+## 🛠️ Useful Stuffs
 
 [Here](https://github.com/sachinsenal0x64?tab=stars)
 
@@ -20,7 +20,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 <br>
 
-##  What I've done so far 
+## ⭐ What I've done so far 
 
 | 🚀 HiFi Echo System  | 🚀 Reverse Engineering | 🚀 Fancy X11 / CLI / Templet | ⌛ Time / Philosophy / Wisdom
 | -------------------------- | -------------------------- |-----------------------------|-----------------------------|
