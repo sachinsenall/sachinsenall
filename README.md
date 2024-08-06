@@ -1,15 +1,19 @@
 <!-- Wave 
 https://github.com/denvercoder1/readme-typing-svg -->
 
-<div align="center">
+## Useful Stuffs
 
-<a href="https://en.wikipedia.org/wiki/Diogenes"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/1701343027123.34vfgcv5fmrk.1i0vlm96kf4w.webp" /></a> 
+[Here](https://github.com/sachinsenal0x64?tab=stars)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrain+Mono&duration=1&pause=1&color=F7F7F7&center=true&repeat=false&random=false&width=435&lines=Minimalism+is+the+best." alt="Typing SVG" /></a>
+<br>
 
-[![Statuspage Badge](https://img.shields.io/badge/Server%20Status-315691?logo=statuspage&logoColor=fff&style=flat)](https://status.401658.xyz) [![Index Page](https://img.shields.io/badge/index%20page-pink?style=flat&logo=starship&logoColor=black)](https://index.401658.xyz) 
+## Uptime
 
+[![Statuspage Badge](https://img.shields.io/badge/Server%20Status-315691?logo=statuspage&logoColor=fff&style=flat)](https://status.401658.xyz) [![Index Page](https://img.shields.io/badge/index%20page-pink?style=flat&logo=starship&logoColor=black)](https://index.401658.xyz)
+  
 </div>
+
+<br>
 
 ## 💕 Community
 
@@ -18,9 +22,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 <br>
 
-## <a title="What I Use" target="_blank" href="https://github.com/sachinsenal0x64"><img src="https://sachinsenal0x64.github.io/picx-images-hosting/satrunp.51dvwlzy0g.gif" width="62" height="62"></a> My Empire
-
-<div align="center">
+##  What I've done so far 
 
 | 🚀 HiFi Echo System  | 🚀 Reverse Engineering | 🚀 Fancy X11 / CLI / Templet | ⌛ Time / Philosophy / Wisdom
 | -------------------------- | -------------------------- |-----------------------------|-----------------------------|
@@ -30,4 +32,4 @@ https://github.com/denvercoder1/readme-typing-svg -->
 | [hifi-rest-api-public](https://tidal.401658.xyz) |[sonicbit.net](https://github.com/sachinsenal0x64/telegram-torrent-bot) | [awesome-yazi](https://github.com/sachinsenal0x64/awesome-yazi)  | [Cronus](https://en.wikipedia.org/wiki/Cronus) |
 | [hifi-api-gateway](https://github.com/sachinsenal0x64/hifi-tui/tree/main/apigateway) | | | [Saturn: Father Time](https://en.wikipedia.org/wiki/Father_Time) |
 
-</div>
+
